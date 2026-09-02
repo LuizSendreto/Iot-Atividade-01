@@ -1,12 +1,11 @@
-# iot-exemplo-repositorio
+# iot-ATIVIADE 01
 
-Discente: Ícaro Caldeira Botelho
-
+Discente: Luiz Felipe Sendretro dos Santos
 Docente: Amanda Paul Dull
 
 Esse repositório serve de exemplo para a entrega de atividades da matéria de IoT.
 
-[![Simular no Tinkercad](https://img.shields.io/badge/Simular%20no-Tinkercad-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/gzcCF6GhFek-acendedor-de-led-3000?sharecode=oJlNj4IwWi4yJ-hbwXRkpEibq6Wei9GqDSi0qM2b9bM)
+[![Simular no Tinkercad](https://www.tinkercad.com/things/60WDrD6WtTu/editel?returnTo=%2Fdashboard)
 
 ## Enunciado: Vamos ligar o LED!
 
