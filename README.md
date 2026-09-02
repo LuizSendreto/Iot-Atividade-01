@@ -5,7 +5,7 @@ Docente: Amanda Paul Dull
 
 Esse repositório serve de exemplo para a entrega de atividades da matéria de IoT.
 
-[![Simular no Tinkercad](https://www.tinkercad.com/things/60WDrD6WtTu/editel?returnTo=%2Fdashboard)
+https://www.tinkercad.com/things/60WDrD6WtTu/editel?returnTo=%2Fdashboard&sharecode=VkD5Fcrrs-sEU34H7vEfrzgRgNw971IARVwVTUeBnyI
 
 ## Enunciado: Vamos ligar o LED!
 
