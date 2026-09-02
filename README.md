@@ -1,6 +1,6 @@
 # iot-ATIVIADE 01
 
-Discente: Luiz Felipe Sendretro dos Santos
+Discente: Luiz Felipe Sendretro dos Santos //
 Docente: Amanda Paul Dull
 
 Esse repositório serve de exemplo para a entrega de atividades da matéria de IoT.
